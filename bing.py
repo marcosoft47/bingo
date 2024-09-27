@@ -48,7 +48,7 @@ nmax = 100
 steps = 20
 ncol = 5
 nrow = 5
-ammount = 1000
+ammount = 10
 
 base = cv.imread("bingo-base.png")
 imgPath = "cartelas/"
